@@ -1,7 +1,7 @@
 
 ### Hola 👋 I'm Gissel (Gi) Diaz
 
-- 💻 I’m currently working on JS Algorithms and Data Structures...
+- 💻 I’m currently working on JS Algorithm, Data Structures and personal projects
 - 👨🏽‍💻 I'm a Fullstack Engineer
 - 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator
 - 🙋🏽‍♂️ Pronouns: She/ He/ They
