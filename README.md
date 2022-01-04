@@ -23,3 +23,12 @@
 ## Tech & Tools:
 
 <img width="900" alt="Screen Shot 2021-12-10 at 4 59 44 PM" src="https://user-images.githubusercontent.com/85481752/148100234-b42d402c-07db-4600-8e86-f234ee73b507.png">
+
+<img align="left" img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
