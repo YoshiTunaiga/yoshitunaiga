@@ -3,7 +3,8 @@
 
 - 💻 I’m currently working on JS Algorithms and Data Structures...
 - 👨🏽‍💻 I'm a Fullstack Engineer
-- 🙋🏽‍♂️Pronouns: She/ He/ They
+- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator
+- 🙋🏽‍♂️ Pronouns: She/ He/ They
 - 🚵🏽‍♀️ Enjoy cycling
 - 🧗🏽‍♂️ Love Obstacle Races like Spartan
 - 🏳️‍🌈 LGBTQIA+ Advocate
