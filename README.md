@@ -14,7 +14,7 @@
 - 💬 Let's expand our Network together by connecting: 
 
 [<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://img.icons8.com/mail" />][email]
+<a href="yandelydf@gmail.com"><img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://img.icons8.com/mail" /></a>
 
 </br>
 </br>
@@ -52,4 +52,3 @@
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [linkedin]: https://www.linkedin.com/in/gisseldiazf/
-[email]: yandelydf@gmail.com
