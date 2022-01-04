@@ -11,11 +11,10 @@
 
 ## Let's Connect
 
+- 📭 Email: yandelydf@gmail.com
 - 💬 Let's expand our Network together by connecting: 
 
 [<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="yandelydf@gmail.com"><img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://img.icons8.com/mail" /></a>
-
 </br>
 </br>
 
