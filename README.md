@@ -11,7 +11,7 @@
 
 ## Let's Connect
 
-- 💬 Let's expand our Network together by connecting - <a href="https://www.linkedin.com/in/gisseldiazf/"><img img src="https://img.icons8.com/color/linkedin"/></a>
+- 💬 Let's expand our Network together by connecting - <a href="https://www.linkedin.com/in/gisseldiazf/"><img width="30" img src="https://img.icons8.com/color/linkedin"/></a>
 - 📪 Email: yandelydf@gmail.com
 
 
