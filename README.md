@@ -20,6 +20,6 @@
 
 
 
-
+## Tech & Tools:
 
 <img width="900" alt="Screen Shot 2021-12-10 at 4 59 44 PM" src="https://user-images.githubusercontent.com/85481752/148100234-b42d402c-07db-4600-8e86-f234ee73b507.png">
