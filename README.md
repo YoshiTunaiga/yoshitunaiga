@@ -14,7 +14,7 @@
 - 📭 Email: yandelydf@gmail.com
 - 💬 Let's expand our Network together by connecting: 
 
-[<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 </br>
 </br>
 
