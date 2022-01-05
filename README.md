@@ -15,6 +15,8 @@
 - 💬 Let's expand our Network together by connecting: 
 
 [<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+<img align="left" alt="yoshitunaiga | Discord" width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
+<img align="left" alt="yoshitunaiga | Slack" width="50px" src="https://user-images.githubusercontent.com/819186/51553744-4130b580-1e7c-11e9-889e-486937b69475.png" />
 </br>
 </br>
 
