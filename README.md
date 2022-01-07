@@ -23,8 +23,10 @@
 
 ## Recent Projects & Demo
 
-
- 
+<div>
+<img width="300" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png">
+<img width="300" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg">
+</div>
   
    
 ## GITHUB
