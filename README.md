@@ -24,7 +24,8 @@
 ## Recent Projects & Demo
 
 <div>
-[<img width="300" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png">][astromart]
+
+<a href="https://astro-mart-stars.herokuapp.com/"><img width="300" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
 <img width="300" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg">
 </div>
   
@@ -52,6 +53,5 @@
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-[astromart]: https://astro-mart-stars.herokuapp.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [linkedin]: https://www.linkedin.com/in/gisseldiazf/
