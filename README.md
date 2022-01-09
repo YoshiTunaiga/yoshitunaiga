@@ -1,13 +1,16 @@
 
 ### Hola 👋 I'm Gissel Diaz - aka Gi
 
-- 💻 I’m currently working on JS Algorithm, Data Structures and personal projects
-- 👨🏽‍💻 I'm a Fullstack Engineer
-- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator
+- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator.
+- 👨🏽‍💻 Recently installed Fullstack Software Engineer
 - 🙋🏽‍♂️ Pronouns: She/ He/ They
 - 🚵🏽‍♀️ Enjoy cycling
 - 🧗🏽‍♂️ Love Obstacle Races like Spartan
 - 🏳️‍🌈 LGBTQIA+ Advocate
+
+## Currently Learning 💻 
+- Algorithms, Data Structures
+- Working on personal projects
 
 ## Let's Connect
 
