@@ -2,7 +2,7 @@
 ### Hola 👋 I'm Gissel Diaz - aka Gi
 
 - 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator.
-- 👨🏽‍💻 Recently installed Fullstack Software Engineer
+- 👨🏽‍💻 Recently upgraded to Fullstack Engineer
 - 🙋🏽‍♂️ Pronouns: She/ He/ They
 - 🚵🏽‍♀️ Enjoy cycling
 - 🧗🏽‍♂️ Love Obstacle Races like Spartan
