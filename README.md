@@ -9,7 +9,7 @@
 - 🏳️‍🌈 LGBTQIA+ Advocate
 
 ## Currently Learning 💻 
-- Algorithms, Data Structures
+- Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 - Working on personal projects
 
 ## Let's Connect
