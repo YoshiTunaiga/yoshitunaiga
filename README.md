@@ -8,6 +8,10 @@
 - 🧗🏽‍♂️ Love Obstacle Races like Spartan
 - 🏳️‍🌈 LGBTQIA+ Advocate
 
+## Present Roles
+- Junior Software Developer at Budget Better
+- Mentor at Fullstack Academy
+
 ## Currently Learning 💻 
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 - Working on personal projects
