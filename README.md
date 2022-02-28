@@ -1,11 +1,11 @@
 
 ### Hola 👋 I'm Gissel Diaz - aka Gi
 
-- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT🚑 and Community Health Educator.
-- 👨🏽‍💻 Recently upgraded to Fullstack Engineer
+- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT, Community Health Educator, along with 13 years of customer service experience. During that time, I always had passion for technology. I've decided to pursue a career as a Software Engineer and have been able to cultivate my skills in coding through the Grace Hopper Program.
+- 👨🏽‍💻 Recently upgraded to Fullstack Software Engineer. I'm excited about continuing to expand my reach in improving others lives, through tech; and gaining continued knowledge in a field that is ever evolving.
 - 🙋🏽‍♂️ Pronouns: She/ He/ They
 - 🚵🏽‍♀️ Enjoy cycling
-- 🧗🏽‍♂️ Love Obstacle Races like Spartan
+- 🧗🏽‍♂️ Love Obstacle Races like Spartan.
 - 🏳️‍🌈 LGBTQIA+ Advocate
 
 ## Present Roles
