@@ -32,51 +32,19 @@
 
 
 ## Recent Projects & Demo
-
 <div>
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>Astro-Mart</b></h4> 
-  </div>
-  <a href="https://astro-mart-stars.herokuapp.com/"><img width="320" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
-</div>
+  <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
 
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>Rumble</b></h4> 
-  </div>
-  <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="300" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
-</div>
+  <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
 
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>Portfolio</b></h4> 
-  </div>
-  <a href="https://www.gidiaz.com"><img width="330" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
-</div>
+  <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
 
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>Blue House Realtor</b></h4> 
-  </div>
- <a href="https://github.com/YoshiTunaiga/blue-house-realtor"><img width="330" alt="blue-house-realtor" src="https://user-images.githubusercontent.com/85481752/156838514-9d1acb68-a8b7-4718-9b7d-78a0f9fcbfc7.png"></a>
-</div>
+ <a href="https://github.com/YoshiTunaiga/blue-house-realtor"><img width="230" alt="blue-house-realtor" src="https://user-images.githubusercontent.com/85481752/156838514-9d1acb68-a8b7-4718-9b7d-78a0f9fcbfc7.png"></a>
 
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>WW Celullars</b></h4> 
-  </div>
- <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="330" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
-</div>
+ <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
 
-<div style={{box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), transition: '0.3s', width: '40%'}}>
-<div class="container">
-    <h4><b>Damy C. Marte (Lawyer) Business Card</b></h4> 
-  </div>
- <a href=""><img width="330" alt="business-card-design" src="https://user-images.githubusercontent.com/85481752/177053715-f034cbf0-ea73-42bf-8199-0616f49f10bb.png"></a>
+ <a href=""><img width="230" alt="business-card-design" src="https://user-images.githubusercontent.com/85481752/177053715-f034cbf0-ea73-42bf-8199-0616f49f10bb.png"></a>
 </div>
-</div>
-  
    
 ## GITHUB
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yoshitunaiga)](https://github.com/yoshitunaiga)
