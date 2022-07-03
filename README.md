@@ -34,15 +34,10 @@
 ## Recent Projects & Demo
 <div>
   <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
-
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
-
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
-
  <a href="https://github.com/YoshiTunaiga/blue-house-realtor"><img width="230" alt="blue-house-realtor" src="https://user-images.githubusercontent.com/85481752/156838514-9d1acb68-a8b7-4718-9b7d-78a0f9fcbfc7.png"></a>
-
  <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
-
  <a href=""><img width="230" alt="business-card-design" src="https://user-images.githubusercontent.com/85481752/177053715-f034cbf0-ea73-42bf-8199-0616f49f10bb.png"></a>
 </div>
    
