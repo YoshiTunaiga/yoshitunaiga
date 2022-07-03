@@ -16,8 +16,8 @@
 - Mentor at Fullstack Academy
 
 ## Currently Learning 💻 
+- Mongodb (Atlas & Realm)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
-- Working on personal projects: [Blue-House-Realtor](https://github.com/YoshiTunaiga/blue-house-realtor)
 
 ## Let's Connect
 
