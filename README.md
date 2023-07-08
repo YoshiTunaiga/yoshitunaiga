@@ -17,8 +17,7 @@
 
 ## Currently Learning 💻 
 - AWS Cloud Practitioner Essentials
-- React Hooks
-- Mongodb (Atlas & Realm)
+- MongoDB (Atlas & Realm)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 
 ## Let's Connect
