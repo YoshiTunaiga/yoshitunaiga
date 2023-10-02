@@ -17,12 +17,11 @@
 
 ## Currently Learning 💻 
 - AWS Cloud Practitioner Essentials
-- MongoDB (Atlas & Realm)
+- MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 
 ## Let's Connect
 
-- 📭 Email: yandelydf@gmail.com
 - 💬 Let's expand our Network together by connecting: 
 
 [<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
