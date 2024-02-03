@@ -26,6 +26,7 @@
 [<img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 <img align="left" alt="yoshitunaiga | Discord" width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
 <img align="left" alt="yoshitunaiga | Slack" width="50px" src="https://user-images.githubusercontent.com/819186/51553744-4130b580-1e7c-11e9-889e-486937b69475.png" />
+<img align="left" alt="yoshitunaiga | Code wars" width="50px" src="https://img.icons8.com/color/48/codewars.png" />
 </br>
 </br>
 
@@ -48,7 +49,8 @@
 
 <img width="900" alt="Screen Shot 2021-12-10 at 4 59 44 PM" src="https://user-images.githubusercontent.com/85481752/148100234-b42d402c-07db-4600-8e86-f234ee73b507.png">
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<div>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -59,12 +61,11 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" img src="https://playwright.dev/img/playwright-logo.svg" width="48px" />
-
-[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <img width="40" alt="bubble.io" src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png">
 
-
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</div>
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [linkedin]: https://www.linkedin.com/in/gisseldiazf/
