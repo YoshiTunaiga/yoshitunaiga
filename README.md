@@ -16,7 +16,6 @@
 - Mentor at Fullstack Academy
 
 ## Currently Learning 💻 
-- AWS Cloud Practitioner Essentials
 - MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 
@@ -59,6 +58,7 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" img src="https://playwright.dev/img/playwright-logo.svg" width="48px" />
 
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
