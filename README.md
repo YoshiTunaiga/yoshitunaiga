@@ -1,12 +1,15 @@
 ### Hola 👋 I'm Gissel Diaz - aka Gi
-<img src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c98e8fc9-6c24-408e-b98e-86c5258b2cbe" alt="gi-logo" width="100px" align="right" />
+<img src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c98e8fc9-6c24-408e-b98e-86c5258b2cbe" alt="gi-logo" width="200px" align="right" />
 
-- 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT, Community Health Educator, along with 13 years of customer service experience. During that time, I always had passion for technology. I've decided to pursue a career as a Software Engineer and have been able to cultivate my skills in coding through the Grace Hopper Program.
-- 👨🏽‍💻 Recently upgraded to Fullstack Software Engineer. I'm excited about continuing to expand my reach in improving others lives, through tech; and gaining continued knowledge in a field that is ever evolving.
-- 🙋🏽‍♂️ Pronouns: She/ He/ They
-- 🚵🏽‍♀️ Enjoy cycling
-- 🧗🏽‍♂️ Love Obstacle Races like Spartan.
-- 🏳️‍🌈 LGBTQIA+ Advocate
+🙋🏽‍♂️ Pronouns: She/ Her/ Hers
+
+🦸🏽‍ Throughout my career, I've been dedicated to serving others, first as an EMT and Community Health Educator, accumulating 13 years of invaluable customer service experience. Alongside this, my passion for technology has always been evident. Transitioning into a Software Engineer role, I've honed my coding skills through the Grace Hopper Program. 
+
+As a Software Engineer, I bring a proven record of delivering results, backed by 15 years of customer service expertise and a profound commitment to healthcare. With over 2 years of experience integrating innovative methodologies and staying updated on industry advancements, I've contributed to pioneering software solutions that tangibly improve patient outcomes. My unwavering dedication extends beyond work, evident in my participation in Spartan obstacle races. 
+
+I'm enthusiastic about leveraging technology to enhance lives and communities further while continuously expanding my knowledge in this dynamic field.
+
+🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan 🏳️‍🌈 LGBTQIA+ Advocate
 
 ## Previous Roles
 - Software Engineer II at ApolloMed
@@ -21,13 +24,14 @@
 Companies I've worked with
 
 <div>
-<img align="left" width="200px" alt="fullstack-academy-logo-full-color-rgb" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c75673ed-600b-40e7-85bc-01ef92025762" />
-<img align="left" width="200px" alt="Screen Shot 2024-04-22 at 10 12 18 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/6f281a77-072f-4b5c-869d-1c52a3fe9fc0" />
-<img align="left" width="200px" alt="Astrana_LogoLockup_RGB_Plum" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/796834d2-3c65-4da2-8424-0c260dc8a5af" />
-<img width="200px" alt="Screen Shot 2024-04-22 at 9 59 41 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1c9f111f-0520-412c-b98d-9e5ab0e107d1" />
+<img align="left" width="170px" alt="fullstack-academy-logo-full-color-rgb" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c75673ed-600b-40e7-85bc-01ef92025762" />
+<img align="left" width="170px" alt="Screen Shot 2024-04-22 at 10 12 18 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/6f281a77-072f-4b5c-869d-1c52a3fe9fc0" />
+<img align="left" width="170px" alt="Astrana_LogoLockup_RGB_Plum" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/796834d2-3c65-4da2-8424-0c260dc8a5af" />
+</div>
+<div>
+<img align="left" width="170px" alt="Screen Shot 2024-04-22 at 10 35 14 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/5b96c28e-c697-4268-a71e-bce7400118b4">
+<img align="left" width="150px" alt="Screen Shot 2024-04-22 at 9 59 41 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1c9f111f-0520-412c-b98d-9e5ab0e107d1" />
 <img width="200px" alt="logo-transparent-png" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/41cf0ff4-b4d1-461b-b951-eb213f1f875c" />
-<img width="200px" alt="Screen Shot 2024-04-22 at 10 35 14 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/5b96c28e-c697-4268-a71e-bce7400118b4">
-
 </div>
 
 
