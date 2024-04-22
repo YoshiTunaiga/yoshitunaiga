@@ -1,4 +1,3 @@
-
 ### Hola 👋 I'm Gissel Diaz - aka Gi
 <img src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c98e8fc9-6c24-408e-b98e-86c5258b2cbe" alt="gi-logo" width="100px" align="right" />
 
@@ -18,6 +17,20 @@
 - MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 
+## Clients
+Companies I've worked with
+
+<div>
+<img align="left" width="200px" alt="fullstack-academy-logo-full-color-rgb" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c75673ed-600b-40e7-85bc-01ef92025762" />
+<img align="left" width="200px" alt="Screen Shot 2024-04-22 at 10 12 18 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/6f281a77-072f-4b5c-869d-1c52a3fe9fc0" />
+<img align="left" width="200px" alt="Astrana_LogoLockup_RGB_Plum" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/796834d2-3c65-4da2-8424-0c260dc8a5af" />
+<img width="200px" alt="Screen Shot 2024-04-22 at 9 59 41 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1c9f111f-0520-412c-b98d-9e5ab0e107d1" />
+<img width="200px" alt="logo-transparent-png" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/41cf0ff4-b4d1-461b-b951-eb213f1f875c" />
+<img width="200px" alt="Screen Shot 2024-04-22 at 10 35 14 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/5b96c28e-c697-4268-a71e-bce7400118b4">
+
+</div>
+
+
 ## Let's Connect
 
 - 💬 Let's expand our Network together by connecting: 
@@ -30,26 +43,13 @@
 </br>
 </br>
 
-## Clients
-Companies I've worked with
-
-<div>
-  <a target="_blank" href="https://www.fullstackacademy.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/2509bc92-7fdf-4798-bcb4-3e5dfe3ac772" alt="fullstack-academy-logo-full-color-rgb" width="200px" /></a>
-<a target="_blank" href="https://www.usemuch.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1d185c61-8324-4b99-b594-a21085fed8bd" alt="Screen Shot 2024-04-22 at 10 12 18 AM" width="200px" /></a>
-<img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/08f8ecba-7c69-4003-9b61-e3792e7d88ac" alt="Astrana_LogoLockup_RGB_Plum" width="200px" />
-<a target="_blank" href="https://www.newbeginninghbp.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/22a75328-a4f4-45be-acab-951d10e146d8" alt="logo-transparent-png" width="200px" /></a>
-<a target="_blank" href=""><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/f3f2e30c-87be-4c2b-b588-d9c57094f4b7" alt="Screen Shot 2024-04-22 at 9 59 41 AM" width="200px" /></a>
-</div>
-
-
-## Recent Projects & Demo
+## Projects & Demo
 <div>
   <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
  <a href="https://github.com/YoshiTunaiga/blue-house-realtor"><img width="230" alt="blue-house-realtor" src="https://user-images.githubusercontent.com/85481752/156838514-9d1acb68-a8b7-4718-9b7d-78a0f9fcbfc7.png"></a>
  <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
- <a href=""><img width="230" alt="business-card-design" src="https://user-images.githubusercontent.com/85481752/177053715-f034cbf0-ea73-42bf-8199-0616f49f10bb.png"></a>
 </div>
    
 ## GITHUB
