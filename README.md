@@ -1,5 +1,6 @@
 
 ### Hola 👋 I'm Gissel Diaz - aka Gi
+<img src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c98e8fc9-6c24-408e-b98e-86c5258b2cbe" alt="gi-logo" width="100px" align="right" />
 
 - 🦸🏽‍ I've developed a career that focuses on helping others, specifically as an EMT, Community Health Educator, along with 13 years of customer service experience. During that time, I always had passion for technology. I've decided to pursue a career as a Software Engineer and have been able to cultivate my skills in coding through the Grace Hopper Program.
 - 👨🏽‍💻 Recently upgraded to Fullstack Software Engineer. I'm excited about continuing to expand my reach in improving others lives, through tech; and gaining continued knowledge in a field that is ever evolving.
@@ -8,10 +9,8 @@
 - 🧗🏽‍♂️ Love Obstacle Races like Spartan.
 - 🏳️‍🌈 LGBTQIA+ Advocate
 
-## Present Roles
-- Software Engineer II at ApolloMed
-
 ## Previous Roles
+- Software Engineer II at ApolloMed
 - Junior Software Developer at Budget Better
 - Mentor at Fullstack Academy
 
@@ -30,6 +29,17 @@
 <a href="https://codepen.io/yandelydf"><img align="left" alt="yoshitunaiga | Code wars" width="50px" src="https://img.icons8.com/color/48/codepen.png" /></a>
 </br>
 </br>
+
+## Clients
+Companies I've worked with
+
+<div>
+  <a target="_blank" href="https://www.fullstackacademy.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/2509bc92-7fdf-4798-bcb4-3e5dfe3ac772" alt="fullstack-academy-logo-full-color-rgb" width="200px" /></a>
+<a target="_blank" href="https://www.usemuch.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1d185c61-8324-4b99-b594-a21085fed8bd" alt="Screen Shot 2024-04-22 at 10 12 18 AM" width="200px" /></a>
+<img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/08f8ecba-7c69-4003-9b61-e3792e7d88ac" alt="Astrana_LogoLockup_RGB_Plum" width="200px" />
+<a target="_blank" href="https://www.newbeginninghbp.com/"><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/22a75328-a4f4-45be-acab-951d10e146d8" alt="logo-transparent-png" width="200px" /></a>
+<a target="_blank" href=""><img align="left" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/f3f2e30c-87be-4c2b-b588-d9c57094f4b7" alt="Screen Shot 2024-04-22 at 9 59 41 AM" width="200px" /></a>
+</div>
 
 
 ## Recent Projects & Demo
