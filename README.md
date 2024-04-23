@@ -30,7 +30,7 @@ Companies I've worked with
 </div>
 <div>
 <img align="left" width="170px" alt="Screen Shot 2024-04-22 at 10 35 14 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/5b96c28e-c697-4268-a71e-bce7400118b4">
-<img align="left" width="150px" alt="Screen Shot 2024-04-22 at 9 59 41 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1c9f111f-0520-412c-b98d-9e5ab0e107d1" />
+<img width="150px" alt="Screen Shot 2024-04-22 at 9 59 41 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/1c9f111f-0520-412c-b98d-9e5ab0e107d1" />
 <img width="200px" alt="logo-transparent-png" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/41cf0ff4-b4d1-461b-b951-eb213f1f875c" />
 </div>
 
