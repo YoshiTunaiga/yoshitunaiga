@@ -16,10 +16,6 @@ I'm enthusiastic about leveraging technology to enhance lives and communities fu
 - Junior Software Developer at Budget Better
 - Mentor at Fullstack Academy
 
-## Currently Learning 💻 
-- MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
-- Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
-
 ## Clients
 Companies I've worked with
 
@@ -34,10 +30,19 @@ Companies I've worked with
 <img width="200px" alt="logo-transparent-png" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/41cf0ff4-b4d1-461b-b951-eb213f1f875c" />
 </div>
 
+## Currently Learning 💻 
+- MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
+- Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
+
+## Licenses & Certifications
+- MongoDB Node.JS Developer Path - 2023
+- Responsive Web Design (FreeCodeCamp Certificate) - 2022
+- Emergency Medical Technician, Basic (NYCDOH License) - 2018
+- Certified Customer Service Specialist (Dale Carnegie Training) - 2015
 
 ## Let's Connect
 
-- 💬 Let's expand our Network together by connecting: 
+- 💬 Let's expand our Network together by connecting on: 
 
 <a href="https://www.linkedin.com/in/gisseldiazf/"><img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <img align="left" alt="yoshitunaiga | Discord" width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
