@@ -80,9 +80,16 @@ Companies I've worked with
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/eslint.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img width="40" align="left" img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
+<img width="40" align="left" img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"/>
+<img width="40" align="left" img src="https://img.icons8.com/?size=100&id=KRA1PoZgRrca&format=png&color=000000"/>  
 <img align="left" img src="https://playwright.dev/img/playwright-logo.svg" width="48px" />
-<img width="40" alt="bubble.io" src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png">
-
+<img align="left" img src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/cf660d2f-5d04-4994-ae33-f4d3f3d785f8" width="48px" />
+<img width="40" alt="bubble.io" src="https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png"/>
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
