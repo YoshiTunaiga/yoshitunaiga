@@ -58,8 +58,9 @@ Companies I've worked with
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
  <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
+   <a href="https://newbeginninghbp.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/45fa8799-da60-403b-b434-808ece64641a"></a>
 </div>
-   
+
 ## GITHUB
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yoshitunaiga)](https://github.com/yoshitunaiga)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitunaiga&layout=compact)](https://github.com/yoshitunaiga)
