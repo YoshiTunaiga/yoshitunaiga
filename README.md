@@ -59,6 +59,7 @@ Companies I've worked with
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
  <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
    <a href="https://newbeginninghbp.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/45fa8799-da60-403b-b434-808ece64641a"></a>
+   <a href="https://gi-npimedical.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/9766287f-7b1f-4913-b382-707eb8ac1aa9"></a>
 </div>
 
 ## GITHUB
