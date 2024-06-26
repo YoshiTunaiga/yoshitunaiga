@@ -33,6 +33,7 @@ Companies I've worked with
 ## Currently Learning 💻 
 - MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
+- Observables & Data Analysis: [Gi's Observables & Posts](https://observablehq.com/@gissel-gi-diaz)
 
 ## Licenses & Certifications
 - MongoDB Node.JS Developer Path - 2023
@@ -59,6 +60,7 @@ Companies I've worked with
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
    <a href="https://newbeginninghbp.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/45fa8799-da60-403b-b434-808ece64641a"></a>
    <a href="https://gi-npimedical.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/9766287f-7b1f-4913-b382-707eb8ac1aa9"></a>
+  <a href="https://observablehq.com/@gissel-gi-diaz"><img width="230" alt="observables" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/ffd407c5-96f2-4ab4-97e7-95500519748f"></a>
 </div>
 
 ## GITHUB
