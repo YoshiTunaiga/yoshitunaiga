@@ -57,7 +57,6 @@ Companies I've worked with
   <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
- <a href="https://github.com/YoshiTunaiga/WWcelullars"><img width="230" alt="worlwide-pic" src="https://www.gidiaz.com/static/media/thumbnail.5d344032cb114fdfb969.png"></a>
    <a href="https://newbeginninghbp.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/45fa8799-da60-403b-b434-808ece64641a"></a>
    <a href="https://gi-npimedical.netlify.app"><img width="230" alt="nbhp" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/9766287f-7b1f-4913-b382-707eb8ac1aa9"></a>
 </div>
