@@ -20,7 +20,7 @@ I'm enthusiastic about leveraging technology to enhance lives and communities fu
 Companies I've worked with
 
 <div>
-<img align="left" width="170px" alt="fullstack-academy-logo-full-color-rgb" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/c75673ed-600b-40e7-85bc-01ef92025762" />
+<img align="left" width="170px" alt="fullstack-academy-logo-full-color-rgb" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/0c23dbfc-3228-411b-af21-26c1d7a3ba60" />
 <img align="left" width="170px" alt="Screen Shot 2024-04-22 at 10 12 18 AM" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/6f281a77-072f-4b5c-869d-1c52a3fe9fc0" />
 <img align="left" width="170px" alt="Astrana_LogoLockup_RGB_Plum" src="https://github.com/YoshiTunaiga/yoshitunaiga/assets/85481752/796834d2-3c65-4da2-8424-0c260dc8a5af" />
 </div>
