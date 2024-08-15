@@ -48,13 +48,16 @@ Companies I've worked with
 <a href="https://www.linkedin.com/in/gisseldiazf/"><img align="left" alt="yoshitunaiga | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <img align="left" alt="yoshitunaiga | Discord" width="45px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
 <img align="left" alt="yoshitunaiga | Slack" width="50px" src="https://user-images.githubusercontent.com/819186/51553744-4130b580-1e7c-11e9-889e-486937b69475.png" />
-<a href="https://www.codewars.com/users/Yandelydf"><img align="left" alt="yoshitunaiga | Code wars" width="50px" src="https://img.icons8.com/color/48/codewars.png" /></a>
-<a href="https://codepen.io/yandelydf"><img align="left" alt="yoshitunaiga | Code wars" width="50px" src="https://img.icons8.com/color/48/codepen.png" /></a>
+<a href="https://www.codewars.com/users/Yandelydf"><img alt="Static Badge" src="https://img.shields.io/badge/-Codewars-orange?logo=codewars&logoColor=orange&labelColor=black">
+</a>
+<a href="https://codepen.io/yandelydf"><img alt="Static Badge" src="https://img.shields.io/badge/-Codepen.io-black?logo=Codepen&logoColor=black&labelColor=yellow">
+</a>
 </br>
 </br>
 
 ## Projects & Demo
 <div>
+  <a href="https://vitecare-c83xt0oj2-gi-diazs-projects.vercel.app/"><img width="220" alt="vitecare" src="https://github.com/user-attachments/assets/3410f1fc-c6c2-4f96-b06e-f0744fd65cbc"></a>
   <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
   <a href="https://www.gidiaz.com"><img width="230" alt="Gi-portfolio-pic" src="https://user-images.githubusercontent.com/85481752/151632947-7c53094d-8d76-4fbe-864b-2ddbc8846c54.png"></a>
