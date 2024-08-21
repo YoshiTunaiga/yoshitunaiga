@@ -3,18 +3,29 @@
 
 🙋🏽‍♂️ Pronouns: She/ Her/ Hers
 
-🦸🏽‍ Throughout my career, I've been dedicated to serving others, first as an EMT and Community Health Educator, accumulating 13 years of invaluable customer service experience. Alongside this, my passion for technology has always been evident. Transitioning into a Software Engineer role, I've honed my coding skills through the Grace Hopper Program. 
+🦸🏽‍ Gi has over 2 years of experience developing robust, scalable applications for startups and medium-sized companies. She is skilled in front and backend technologies, with a unique background as an EMT and Community Health Educator.
 
-As a Software Engineer, I bring a proven record of delivering results, backed by 15 years of customer service expertise and a profound commitment to healthcare. With over 2 years of experience integrating innovative methodologies and staying updated on industry advancements, I've contributed to pioneering software solutions that tangibly improve patient outcomes. My unwavering dedication extends beyond work, evident in my participation in Spartan obstacle races. 
+Her technical toolkits include but are not limited to: React.js, JavaScript, TypeScript, HTML5, CSS3, Python, Node.js, Express.js, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
 
-I'm enthusiastic about leveraging technology to enhance lives and communities further while continuously expanding my knowledge in this dynamic field.
+As a former first responder, she possesses:
+* A deep understanding of healthcare processes and user needs
+* Strong communication skills and empathy for end-users
+* The ability to remain calm and focused under pressure
+* A passion for creating technology that can positively impact people's lives
+This unique combination of technical expertise and healthcare experience allows her to bridge the gap between technology and real-world healthcare challenges.
 
-🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan 🏳️‍🌈 LGBTQIA+ Advocate
+She is adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
+
+Gi aims to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. She is open to new opportunities to use her healthcare insights and full-stack expertise to continue growing as a developer.
+
+Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan, Rugged Maniac 🏳️‍🌈 LGBTQIA+ Advocate
 
 ## Previous Roles
 - Software Engineer II at ApolloMed
 - Junior Software Developer at Budget Better
 - Mentor at Fullstack Academy
+- Sexual and Behavioral Community Health Educator
+- Emergency Medical Technician
 
 ## Clients
 Companies I've worked with
@@ -38,6 +49,7 @@ Companies I've worked with
 ## Licenses & Certifications
 - MongoDB Node.JS Developer Path - 2023
 - Responsive Web Design (FreeCodeCamp Certificate) - 2022
+- Full Stack Software Engineer (Fullstack Academy) - 2021 
 - Emergency Medical Technician, Basic (NYCDOH License) - 2018
 - Certified Customer Service Specialist (Dale Carnegie Training) - 2015
 
