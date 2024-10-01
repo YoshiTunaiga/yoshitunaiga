@@ -42,7 +42,6 @@ Companies I've worked with
 </div>
 
 ## Currently Learning 💻 
-- MongoDB (Atlas & Realm): [Gi's MongoDB Learning Journey](https://github.com/YoshiTunaiga/mongo-db-learn)
 - Algorithms, Data Structures: [Gi's Algo Repo](https://github.com/YoshiTunaiga/Algo-Explained)
 - Observables & Data Analysis: [Gi's Observables & Posts](https://observablehq.com/@gissel-gi-diaz)
 
