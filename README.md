@@ -5,7 +5,7 @@
 
 🦸🏽‍ Gi has over 2 years of experience developing robust, scalable applications for startups and medium-sized companies. She is skilled in front and backend technologies, with a unique background as an EMT and Community Health Educator.
 
-Her technical toolkits include but are not limited to: React.js, JavaScript, TypeScript, HTML5, CSS3, Python, Node.js, Express.js, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
+Her technical toolkits include but are not limited to: JavaScript, Python, TypeScript, React.js, React-Native, HTML5, CSS3, Vite, Tailwind, Node.js, Express.js, Postgres, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
 
 As a former first responder, she possesses:
 * A deep understanding of healthcare processes and user needs
@@ -16,12 +16,12 @@ This unique combination of technical expertise and healthcare experience allows 
 
 She is adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
 
-Gi aims to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. She is open to new opportunities to use her healthcare insights and full-stack expertise to continue growing as a developer.
+Gi's goal is to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. She is open to new opportunities to use her healthcare insights and full-stack expertise to continue growing as a developer.
 
 Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan, Rugged Maniac 🏳️‍🌈 LGBTQIA+ Advocate
 
 ## Previous Roles
-- Software Engineer II at ApolloMed
+- Fullstack Software Engineer II at ApolloMed
 - Junior Software Developer at Budget Better
 - Mentor at Fullstack Academy
 - Sexual and Behavioral Community Health Educator
