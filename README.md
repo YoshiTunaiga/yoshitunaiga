@@ -3,20 +3,20 @@
 
 🙋🏽‍♂️ Pronouns: She/ Her/ Hers
 
-🦸🏽‍ Gi has over 2 years of experience developing robust, scalable applications for startups and medium-sized companies. She is skilled in front and backend technologies, with a unique background as an EMT and Community Health Educator.
+🦸🏽‍ I have over 2 years of experience developing robust, scalable applications for startups and medium-sized companies. I am skilled in front and backend technologies, with a unique background as an EMT and Community Health Educator.
 
-Her technical toolkits include but are not limited to: JavaScript, Python, TypeScript, React.js, React-Native, HTML5, CSS3, Vite, Tailwind, Node.js, Express.js, Postgres, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
+My technical toolkits include but are not limited to JavaScript, Python, TypeScript, React.js, React-Native, HTML5, CSS3, Vite, Tailwind, Node.js, Express.js, Postgres, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
 
-As a former first responder, she possesses:
+As a former first responder, I possess:
 * A deep understanding of healthcare processes and user needs
 * Strong communication skills and empathy for end-users
 * The ability to remain calm and focused under pressure
 * A passion for creating technology that can positively impact people's lives
-This unique combination of technical expertise and healthcare experience allows her to bridge the gap between technology and real-world healthcare challenges.
+This unique combination of technical expertise and healthcare experience allows me to bridge the gap between technology and real-world healthcare challenges.
 
-She is adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
+I am adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
 
-Gi's goal is to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. She is open to new opportunities to use her healthcare insights and full-stack expertise to continue growing as a developer.
+I aim to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. I am open to new opportunities to use my healthcare insights and full-stack expertise to continue growing as a developer.
 
 Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan, Rugged Maniac 🏳️‍🌈 LGBTQIA+ Advocate
 
@@ -26,6 +26,8 @@ Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races li
 - Mentor at Fullstack Academy
 - Sexual and Behavioral Community Health Educator
 - Emergency Medical Technician
+- Call Center Specialist
+- Workforce Manager
 
 ## Clients
 Companies I've worked with
