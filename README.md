@@ -70,6 +70,7 @@ Companies I've worked with
 
 ## Projects & Demo
 <div>
+  <a href="https://cs-vanishing-man-game.vercel.app/"><img width="140" alt="cs-vanishing-game" src="https://github.com/YoshiTunaiga/cs-vanishing-man-game/raw/main/src/assets/game-overview-pic.png"></a>
   <a href="https://vitecare-c83xt0oj2-gi-diazs-projects.vercel.app/"><img width="220" alt="vitecare" src="https://github.com/user-attachments/assets/3410f1fc-c6c2-4f96-b06e-f0744fd65cbc"></a>
   <a href="https://astro-mart-stars.herokuapp.com/"><img width="220" alt="Astro-Mart" src="https://user-images.githubusercontent.com/85481752/148563508-d47b5223-c5cb-4fef-b191-709ec6e5ecc2.png"></a>
   <a href="https://www.youtube.com/watch?v=vZ7tQsjeJM4"><img width="200" alt="Rumble-Thumbnail" src="https://user-images.githubusercontent.com/85481752/148563867-bf1a3512-a940-4c96-ac45-0ff99fb60f28.jpg"></a>
