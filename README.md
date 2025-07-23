@@ -3,9 +3,9 @@
 
 🙋🏽‍♂️ Pronouns: She/ Her/ Hers
 
-🦸🏽‍ I have over 2 years of experience developing robust, scalable applications for startups and medium-sized companies. I am skilled in front and backend technologies, with a unique background as an EMT and Community Health Educator.
+🦸🏽‍ I have over 3+ years of experience developing robust, scalable applications for startups and medium-sized companies. I am skilled in frontend and backend technologies, with a unique background as an EMT and Community Health Educator.
 
-My technical toolkits include but are not limited to JavaScript, Python, TypeScript, React.js, React-Native, HTML5, CSS3, Vite, Tailwind, Node.js, Express.js, Postgres, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
+My technical toolkits include but are not limited to: JavaScript, Python, TypeScript, React.js, React-Native, HTML5, CSS3, Next.js, Vite, Tailwind, Node.js, Express.js, Postgres, AWS, SQL, NoSQL, RESTful APIs, Git, and Agile methodologies.
 
 As a former first responder, I possess:
 * A deep understanding of healthcare processes and user needs
@@ -14,20 +14,24 @@ As a former first responder, I possess:
 * A passion for creating technology that can positively impact people's lives
 This unique combination of technical expertise and healthcare experience allows me to bridge the gap between technology and real-world healthcare challenges.
 
-I am adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
+As a Software Engineer, I am adept at translating complex business requirements into elegant code, optimizing application performance, and collaborating with cross-functional teams.
 
-I aim to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. I am open to new opportunities to use my healthcare insights and full-stack expertise to continue growing as a developer.
+My goal is to create impactful, user-centric applications that drive business growth, enhance user experiences, and potentially save lives. I am open to new opportunities to use my healthcare insights and full-stack expertise to continue growing as a developer.
 
-Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan, Rugged Maniac 🏳️‍🌈 LGBTQIA+ Advocate
+Others: 🚵🏽‍♀️ Enjoy cycling 🧗🏽‍♂️ Love Obstacle Races like Spartan, Rugged Maniac
 
-## Previous Roles
+Click Connect and explore how we can innovate together to make a difference in people's lives through technology.
+
+## Previous/Current Roles
+- Lead Software Engineer at SquareResults
+- Engineering Intern at Rita ABC
 - Fullstack Software Engineer II at ApolloMed
 - Junior Software Developer at Budget Better
 - Mentor at Fullstack Academy
-- Sexual and Behavioral Community Health Educator
+- Sexual and Behavioral Community Health Educator at Community Healthcare Network
 - Emergency Medical Technician
-- Call Center Specialist
-- Workforce Manager
+- Call Center Specialist at Community Healthcare Network
+- Workforce Manager at Ecco Outsourcing Group
 
 ## Clients
 Companies I've worked with
